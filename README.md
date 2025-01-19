@@ -6,7 +6,7 @@ The Call Center Dashboard provides a comprehensive view of call center performan
 
 ## Dashboard Preview
 ### GIF Demonstration
-![Project Demonstration](Call Center Dashboard.gif)
+![Project Demonstration](Dashboard.gif)
 *Animated walkthrough of the dashboard features.*
 
 
@@ -54,11 +54,11 @@ To create a user-friendly Power BI dashboard that enables real-time monitoring o
 
 ### Dashboard Images
 #### Overall Call Metrics
-![Dashboard Overview](Call Center Dashboard-1.png)
+![Dashboard Overview](Dashboard-1.png)
 *Visual of total calls, call durations, and response time.*  
 
 #### Sentiment and Channel Insights
-![Sentiment and Channels](Call Center Dashboard-2.png)
+![Sentiment and Channels](Dashboard-2.png)
 *Breakdown of calls by sentiment and communication channel.*
 
 
